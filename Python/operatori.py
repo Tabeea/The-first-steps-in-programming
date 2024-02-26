@@ -18,7 +18,7 @@ print(a<b and a<4) #3<5? true SI 3<4? true => True and true =>true
 print(a<b or a<4) #True SAU False => True
 
 #Exemplu pt true and false
-# la sedinta cu parintii poti veni
+# La sedinta cu parintii poti veni:
 # cu mama sau tata sau (cu bunicu si bunica)
 # Daca vine doar mama este in regula? Da
 # Daca vine doar tata este in regula? Da

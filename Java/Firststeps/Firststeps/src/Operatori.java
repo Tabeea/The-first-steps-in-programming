@@ -3,6 +3,7 @@ Operatori:
 a) Operatori aritmetici: +,-, *, /, %
 b) Operatori de comparare: <>, ==, !=, >=, <=
 c) Logici: && (and), || (or), ! (Not)
+! -> Pui o intrebare si intorci rezultatul
 
 Modulo (%) - restul impartirii
 Mai departe vom folosi operatorii in flow control (if else)

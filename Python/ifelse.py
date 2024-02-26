@@ -24,16 +24,16 @@ else:
     print('nr nu este pozitiv')
 
 # if, else if, else
-# Cum ne saluta robotelul in functie de ora?
-#ora = input('Introdu ora')
-#print(ora == 17)  # dupa ce introduc ora (scriu 17 & enter) o sa imi afiseze False
+# Cum ne saluta robotul in functie de ora?
+# ora = input('Introdu ora')
+# print(ora == 17)  # dupa ce introduc ora (scriu 17 & enter) o sa imi afiseze False
 
 #luam date de la tastatura
 #ne asiguram ca sunt transformate din str in int
 ora = int(input('Introdu ora'))
 print(ora == 17)
 
-if ora<0:
+if ora < 0:
     print('ora invalida. ora mai mare decat 24')
 # esti pe autostrada si vezi localitatile (optiunile)
 elif ora <= 11:
@@ -50,7 +50,7 @@ else: #iesirea de pe autostrada (Nu ai gasit nicio localitate satisfacatoare)
 
 # CTRL + / - selectare/deselectare cod
 
-# Exemplu: Robotel telefonic
+# Exemplu cu switch: Robot telefonic
 optiunea = int(input('alege o optiune'))
 if optiunea == 0:
     print('meniu anterior')
