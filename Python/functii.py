@@ -10,7 +10,7 @@ def mediaNr(a, b, c):
 def piValue():
     return 3.14 # return trebuie sa fie ultima instructiune
 
-# exercitiu
+# Exercitiu:
 # daca persoane e majora, altfel false
 def verificareMajor(varsta):
     if varsta >= 18:
